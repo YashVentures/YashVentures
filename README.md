@@ -1,15 +1,6 @@
-## Hi there 👋
 
-<!--
-**YashVentures/YashVentures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Yash Bhadauriya** 👨‍💻  <br>A passionate **Full Stack Developer** with 2+ years of experience in building scalable web applications and working with modern JavaScript technologies. I enjoy solving real-world problems, designing clean architectures, and continuously improving my skills.<br><br>- 🔥 Tech Stack: JavaScript, TypeScript, React, Next.js, Node.js, Express  <br>- 🗄️ Databases: MongoDB, PostgreSQL, Redis <br>- ⚙️ Experience working with startups and product-based teams  <br>- 🚀 Interested in Backend Architecture, System Design & Cloud Technologies  <br>- 📚 Currently improving DSA & problem-solving skills  <br><br>I love turning ideas into reliable products and contributing to meaningful projects.<br><br>---<br>
+## 👋 About Me<br><br>
+Hi, I'm **Yash Bhadauriya** 👨‍💻  <br>A passionate **Full Stack Developer** with 2+ years of experience in building scalable web applications and working with modern JavaScript technologies. I enjoy solving real-world problems, designing clean architectures, and continuously improving my skills.<br><br>- 🔥 Tech Stack: JavaScript, TypeScript, React, Next.js, Node.js, Express  <br>- 🗄️ Databases: MongoDB, PostgreSQL, Redis <br>- ⚙️ Experience working with startups and product-based teams  <br>- 🚀 Interested in Backend Architecture, System Design & Cloud Technologies  <br>- 📚 Currently improving DSA & problem-solving skills  <br><br>I love turning ideas into reliable products and contributing to meaningful projects.<br><br>---<br>
 
 
 ## 🌐 Socials:
