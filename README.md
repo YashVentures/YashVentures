@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 Hi, I'm **Yash Bhadauriya** 👨‍💻  
-A passionate **Full Stack Developer** with 2+ years of experience in building scalable web applications and working with modern JavaScript technologies. I enjoy solving real-world problems, designing clean architectures, and continuously improving my skills.
+A passionate **Full Stack Developer** with 1 year of experience building scalable web applications and backend systems. Strong in Backend with Both Python and Node ecosystems (APIs, async, microservices, REST, authentication, caching, performance). Skilled in DSA and databases like MongoDB, MySQL, and Redis.
 
 - 🔥 Tech Stack: JavaScript, TypeScript, React, Next.js, Node.js, Express  
 - 🗄️ Databases: MongoDB, PostgreSQL, Redis  
